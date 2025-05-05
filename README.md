@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ownlytics-mcptix-badge.png)](https://mseep.ai/app/ownlytics-mcptix)
+
 # mcptix [![Beta](https://img.shields.io/badge/status-beta-orange.svg)](https://github.com/ownlytics/mcptix)
 
 A simple, powerful ticket tracking system with AI assistant integration.
